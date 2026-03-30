@@ -64,6 +64,9 @@ python -m streamlit run main.py
 - 📄 Downloadable report
 - 🌐 Deployment
 
+## Output
+<img width="1900" height="1021" alt="image" src="https://github.com/user-attachments/assets/3c28838c-73a2-40b6-9382-2209a86cc74f" />
+
 ## ⚠️ Important Notes
 
 - Do NOT share your `.env` file  
